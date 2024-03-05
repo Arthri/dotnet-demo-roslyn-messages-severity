@@ -1,0 +1,5 @@
+[*.cs]
+root = true
+dotnet_diagnostic.IDE0008.severity = warning
+csharp_style_var_when_type_is_apparent = false
+dotnet_diagnostic.IDE0004.severity = suggestion
